@@ -2,7 +2,7 @@
 
 Минималистичное приложение для отображения текущей погоды и прогноза на 3 дня.
 
-![Weather Widget Screenshot](https://imgbox.com/KRg3h35R)
+![Image](https://github.com/user-attachments/assets/eba19016-8c66-49ca-b9ed-10ba8158bc5b)
 
 ## Функциональность
 
@@ -47,7 +47,7 @@
 
 A minimalist application for displaying current weather and 3-day forecast.
 
-![Weather Widget Screenshot](https://imgbox.com/KRg3h35R)
+![Image](https://github.com/user-attachments/assets/eba19016-8c66-49ca-b9ed-10ba8158bc5b)
 
 ## Features
 
